@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite both the paper and this archive."
+title: "Replication package for: Do Voluntary Industry Measures Shift Support for Stronger Environmental Governance?"
+abstract: "Data and Stata code to reproduce all figures and tables in Smith and Bernauer (2026), Environmental Research Letters. Uses a public, anonymised extract of Swiss Environmental Panel Wave 12."
+type: software
+authors:
+  - family-names: Smith
+    given-names: E. Keith
+    orcid: "https://orcid.org/0000-0001-7702-0809"
+    affiliation: "ETH Zurich"
+    email: keith.smith@gess.ethz.ch
+  - family-names: Bernauer
+    given-names: Thomas
+    orcid: "https://orcid.org/0000-0002-3775-6245"
+    affiliation: "ETH Zurich"
+version: 1.0.0
+date-released: "2026-09-18"
+license: MIT
+repository-code: "https://github.com/edksmith/food-waste-erl-replication"
+keywords:
+  - food waste
+  - environmental governance
+  - voluntary industry measures
+  - survey experiment
+  - Switzerland
+  - Swiss Environmental Panel
+  - replication
+preferred-citation:
+  type: article
+  title: "Do Voluntary Industry Measures Shift Support for Stronger Environmental Governance?"
+  authors:
+    - family-names: Smith
+      given-names: E. Keith
+    orcid: "https://orcid.org/0000-0001-7702-0809"
+      affiliation: "ETH Zurich"
+    - family-names: Bernauer
+      given-names: Thomas
+    orcid: "https://orcid.org/0000-0002-3775-6245"
+      affiliation: "ETH Zurich"
+  journal: "Environmental Research Letters"
+  year: 2026
+  doi: ""
