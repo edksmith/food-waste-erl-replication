@@ -5,17 +5,17 @@ abstract: "Data and Stata code to reproduce all figures and tables in Smith and 
 type: software
 authors:
   - family-names: Smith
-    given-names: E. Keith
+    given-names: "E. Keith"
     orcid: "https://orcid.org/0000-0001-7702-0809"
     affiliation: "ETH Zurich"
-    email: keith.smith@gess.ethz.ch
+    email: "keith.smith@gess.ethz.ch"
   - family-names: Bernauer
-    given-names: Thomas
+    given-names: "Thomas"
     orcid: "https://orcid.org/0000-0002-3775-6245"
     affiliation: "ETH Zurich"
-version: 1.0.0
+version: "1.0.0"
 date-released: "2026-09-18"
-license: MIT
+license: "MIT"
 repository-code: "https://github.com/edksmith/food-waste-erl-replication"
 keywords:
   - food waste
@@ -30,13 +30,13 @@ preferred-citation:
   title: "Do Voluntary Industry Measures Shift Support for Stronger Environmental Governance?"
   authors:
     - family-names: Smith
-      given-names: E. Keith
-    orcid: "https://orcid.org/0000-0001-7702-0809"
+      given-names: "E. Keith"
+      orcid: "https://orcid.org/0000-0001-7702-0809"
       affiliation: "ETH Zurich"
     - family-names: Bernauer
-      given-names: Thomas
-    orcid: "https://orcid.org/0000-0002-3775-6245"
+      given-names: "Thomas"
+      orcid: "https://orcid.org/0000-0002-3775-6245"
       affiliation: "ETH Zurich"
   journal: "Environmental Research Letters"
   year: 2026
-  doi: ""
+  doi: "10.1088/1748-9326/aea9ae"
